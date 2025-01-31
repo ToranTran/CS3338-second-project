@@ -1,0 +1,45 @@
+commit 70ab7f2e8fb7a62399eddb8e089c6814072412ae
+Merge: 6ab4428 0230c2d
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 13:02:41 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 0230c2d5e53434b82c6dac7ecb6752c635121ebb
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 13:01:50 2025 -0800
+
+    add new line what your favorite movie/game
+
+commit 6ab442821a219adf98d9598aacfa0f630a17648a
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 12:59:55 2025 -0800
+
+    add new line what your favorite food
+
+commit 04b4ecc774c53b7650e4cd3d2caedab2b3a36ace
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 12:57:43 2025 -0800
+
+    Create README.md
+
+commit 133c7864884179c6c1c329b6f283a152e3aaed04
+Merge: 1d2bfc0 47558dd
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 20:55:52 2025 +0000
+
+    Merge pull request #1 from ToranTran/info-fill
+    
+    fill in name and favorite hobby
+
+commit 47558dd9ba31de656a907b8b2aea49c315da92b8
+Author: ToranTran <hung072619@gmail.com>
+Date:   Fri Jan 31 12:54:54 2025 -0800
+
+    fill in name and favorite hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
